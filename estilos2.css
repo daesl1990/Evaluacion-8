@@ -1,0 +1,23 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+article{
+    width: 23.5%;
+    float: left;
+    margin-right: 1%;
+    border-radius: 20px;
+}
+
+article img{
+    width: 100%;
+    border-radius: 20px;
+    border: 2px solid black;
+    
+     
+}
+
+.margen_izquierdo{
+    margin-left: 0.8%;
+}
